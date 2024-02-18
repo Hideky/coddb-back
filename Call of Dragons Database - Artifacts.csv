@@ -1,0 +1,302 @@
+Name,Main Stats,MS Min,MS Max,Secondary Stats,SS Min,SS Max,Quality,Category 1,Category 2,Category 3,Cooldown,Rage Cost,Ability Name,Ability Description,Ability Upgrade,Description RP (Maybe too much ?,
+Sorland's Blade,Cavalry Unit ATK,"5,0","24,0",Legion March Speed,4,18,legendary,Cavalry,PvP,Assault,1m30,600,Sword Oath,"Deals damage to up to 2 enemy Legions in a designated arc.
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor: 1600
+
+Targets take 25% less damage per additional target.
+
+Your Legion gains Haste: March Speed +20% for 10s.",Skill Damage Factor: 1600/2000/2400/2800/3200,"Since the age of the Heptarchy, House Sorland's Blade has had only one mission--to guard and protect bringing glory to the Sons of the Stag.", 
+Dragonrift,Infantry Unit ATK,"5,0","24,0",Legion ATK,4,22,legendary,Infantry,PvP,Assault,1m30,400,Dragon Tamer,"Deals damage to the selected Legion.
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor: 2000
+
+If this Skill defeats the target, your Legion gains Physical Keen: Physical ATK +16% for 6s
+
+If this Skill does not defeat the target, they gain Bleed: deals damage every second for 3s.
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor: 150","Skill Damage Factor: 2000/2500/3000/3500/4000
+Physical ATK bonus: 16%/20%/24%/28%/32%
+Skill Damage Factor: 150/200/250/300/350",/, 
+Ancient Tree Roots,Legion Load Capacity,"7,5","24,5",Legion HP,4,17,legendary,Gathering,/,/,2m,0,Geomancy,"After a short charge-up, teleports your Legion to a random unmanned high-level Resource Point within range.
+Moving, being attacked, or gaining control effects interrupts.charge-up.",Cooldown (seconds): 120/100/80/60/30,/, 
+Kurrata's Wrath,Peacekeeping Damage,"8,0","26,0",Legion ATK,4,22,legendary,Peacekeeping,/,/,1m30,0,Wolf Pack,"Grants a buff to up to 10 friendly Legions in a designated circle.
+Buff Effect: Damage dealt to Darklings and Dark Creatures +20% for 10s.",Damage dealth during Peacekeeping bonus: 20%/25%/30%/35%/40%,/, 
+Bloodblade Banner,Rallied Army ATK,"5,0","24,0",Legion DEF,4,22,legendary,Rally,Assault,/,0,0,Warrior Spirit,"While in battle, your Rallied Army deals damage and gains Physical Keen every 30s.
+
+Damage Type: Artifact Skill
+Damage (Physical): 650
+
+Physical Keen: Physical ATK +5% for 10s.","Skill Damage Factor: 650/800/950/1100/1300
+Physical ATK bonus: 5%/6%/7%/8.5%/10%",/, 
+Tear of Arbon,Magic Unit DEF,"5,0","24,0",Legion DEF,4,22,legendary,Magic,PvP,Support,1m30,1 600,Divine Mercy,"Heals lightly wounded units once every 2s.
+Casts on up to 4 friendly Legions in a designated circle.
+
+Healing Factor: 400
+Healing Duration: 8s",Healing Factor: 400/500/600/700/800,/, 
+Phoenix Eye,Magic Unit ATK,"5,0","24,0",Legion ATK,4,22,legendary,Magic,PvP,Assault,1m30,1 600,Burst Strike,"Deals damage to up to 4 enemy Legions in a designated circle.
+
+Damage Type: Artifact Skill Damage (Magic)
+Damage Factor: 2000
+
+Legions take 15% less damage per additional target.","Skill Damage Factor: 2000/2500/3000/3500/4000
+Max targets: 4/4/4/4/5",/, 
+Fang of Ashkari,Legion DEF,"5,0","24,0",Legion DEF,4,22,legendary,All-Rounder,PvP,Tank,1m30,400,Thundershadow,"Sets a circle fixed at your Legion's location when cast.
+Deals damage every 2s to up to 4 enemy Legions within the circle.
+
+Damage Type: Artifact Skill Damage (Physical/Magic)
+Damage Factor: 500
+Duration: 8s.
+
+Target take 15% less damage per additional target.",Skill Damage Factor: 500/600/700/850/1000,/, 
+Heart of Kamasi,Marksman Unit DEF,"5,0","24,0",Legion DEF,4,22,legendary,Marksman,PvP,Support,1m30,1 200,Earthen Judgment,"Grants your Legion and 2 nearby friendly Legions:
+
+1) Physical Keen: Physical ATK +15%
+2) Onslaught: normal attack damage dealt +15%
+Duration: 10s
+
+Only takes effect when leading a Marksman Legion.","Physical ATK bonus: 15%/18%/22%/26%/30%
+Normal attack damage bonus: 15%/18%/22%/26%/30%",/, 
+Wolf-Woman of Haelor,Cavalry Unit HP,"5,0","20,0",Legion HP,4,17,legendary,Cavalry,Mobility,/,1m30,0,Wolfshadow,"Immediately teleports your Legion to a selected empty area.
+
+Range: 15
+
+Legion returns to their original position when the Skill is cast again, or 15s after casting.",Range: 15/17/19/21/24,/, 
+Shadowblades,Marksman Unit ATK,"5,0","24,0",Legion ATK,4,22,legendary,Marksman,PvP,Assault,1m30,1 200,Shadow Games,"Deals damage to up to 5 enemy Legions in a designated rectangle.
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor: 1800
+
+Target take 15% less damage per additional target.",Skill Damage Factor: 1800/2200/2600/3000/3600,/, 
+Springs of Silence,Infantry Unit ATK,"5,0","24,0",Legion ATK,4,22,legendary,Infantry,PvP,Assault,1m30,400,Fleeting Beauty,"Deals Artifact Skill damage to up to 3 enemy Legions in a designated arc (Physical Damage Factor 3,200).
+Each additional target reduces the damage dealt to each target by 15%.
+Legions that take damage also gain Slow, reducing their March Speed by 20% for 19s.",Skill Damage Factor: 1600/2000/2400/2800/3200,/, 
+Lucia's Horn,Overall Gather Speed,"8,0","26,0",Legion DEF,4,22,legendary,Gathering,/,/,2h,0,Bounty of Nature,"After a short charge-up, a random Resource Point located in Alliance territory near your Legion.
+
+Resource Point Minimum Level: 4
+Resource Point Maximum Level: 5.
+
+Charge-up cannot be interrupted..","Resource Point minimum Level: 4/4/5/6/7
+Resource Point max Level: 5/6/6/7/7",/, 
+Breath of the Forest,Garrisoned Army ATK,"5,0","24,0",Legion DEF,4,22,legendary,Garrison,Support,/,0,0,Deepwood Symphony,"When you are Garrison Captain of a City or Stronghold, randomly grants your Legion one of the following effects every 30s while in battle.
+
+Ode: Heals once every 2s.
+Healing Factor: 300
+Healing Duration: 10s
+
+Hymn: Grand Vigor for 10s.
+Effect: HP +15%
+
+Aria: Removes one debuff every 2s.
+Duration: 6s","Healing Factor: 300/370/440/520/600
+HP Bonus: 15%/18%/22%/26%/30%",/, 
+Infernal Flame,Magic Unit ATK,"5,0","24,0",Legion ATK,4,22,legendary,Magic,PvP,Assault,1m30,1 600,Terrifying Inferno,"When cast, your Legion deals additional damage whenever they launch a normal attack.
+
+Damage Type: Artifact Skill Damage (Magic)
+Damage Factor: 1100
+Effect Duration: 3s
+
+Passive: Your Legion gains Magic Keen when the wielder inflicts Scorch on enemies.
+
+Magic Keen: ATK +15% for 5s
+
+This effect can be triggered once every 10s.","Additional Magic Skill Damage Factor: 1100/1350/1600/1900/2200
+Magic ATK bonus: 15%/18%/21%/25%/30%",/, 
+Kingslayer,Cavalry Unit ATK,"5,0","24,0",Legion ATK,4,22,legendary,Cavalry,PvP,Assault,1m30,600,Royal Punishment,"Deals damage to up to 5 enemy Lgions in a designated arc.
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor: 1800
+
+Targets take 15% less damage per additional target.
+
+If the target is another Lord's Legion and has fewer than 10% units remaining, it is immediately defeated.",Skill Damage Factor: 1800/2200/2600/3000/3600,/, 
+Springbird Feather,Legion March Speed,"7,5","24,5",Legion HP,4,17,legendary,Mobility,/,/,1m30,0,Mighty Tailwind,"Grants your Legion and 10 surrounding friendly Legions Haste for 10s.
+
+Your Legion: March Speed +24%
+Friendly Legions: March Speed +16%","Legion March Speed bonus: 24%/30%/36%/42%/48%
+Friendly Legion March Speed bonus: 16%/20%/24%/28%/32%",/, 
+Storm Arrows,Cavalry Unit ATK,"5,0","24,0",Legion ATK,4,22,legendary,Cavalry,Mobility,/,1m30,0,Blink,"Immediately teleports your Legion to a designated empty area.
+
+Teleport Range: 15
+
+Your Legion gains Rampage: damage dealth +12% for 4s.","Range: 15/18/21/25/30
+Damage bonus: 12%/15%/18%/21%/24%",/, 
+Visage of the Sanctus,Flying Unit DEF,"5,0","24,0",Legion ATK,4,22,legendary,Flying,PvP,Tank,1m30,600,Strike of the Light,"Consecutively grants 3 Boon Shields to a selected friendly Legion.
+
+Boon Shield Factor: 900 each time
+Boon Shield Duration: 10s
+
+Passive: Grants 1 stack of Mark of Judgment to the wielder when they grant a shield to themselves or any friendly Legion.
+
+Mark of Judgment: Stacks up to 10 times.
+Casting a Rage Skill triggers Supreme Judgment and clears all Mark of Judgment stacks.
+
+Supreme Judgment: Deals damage to the target Legion.
+
+Damage Type: Artifact Skill Damage
+Damage Factor 250 per stack
+
+Mark of Jugdgment stacks a cleared after battle ends.","Boon Shield Factor: 900/1100/1300/1550/1800
+Damage Factor: 250/310/370/430/500",/, 
+Staff of the Prophet,Magic Unit HP,"5,0","20,0",Legion HP,4,17,legendary,Magic,Mobility,/,8h,0,Toward the Light,"Select a friendly Legion within the current Region and within Alliance territory.
+After a 15s charge-up, your Legion and 1 nearby friendly Legions are teleported to the target's location.
+
+Your Legions will be prioritized for teleportation ahead of any other friendly Legions.",Number of friendly Legions: 1/2/3/4/5,/, 
+Dragonscale Armor,Infantry Unit HP,"5,0","20,0",Legion HP,4,17,legendary,Infantry,PvP,Tank,1m30,400,Entangling Flames,"Grants a Boon Shield to your Legion. Grants Keen to up to 3 friendly Legions in a designated circle.
+
+Boon Shield Factor: 2200
+Boon Shield Duration: 10s
+Keen: ATK +10% for 10s
+
+Passive: Your Legion gains Ranged Resistance when the wielder gains a shield through Rage Skills.
+
+Ranged Resistance: Ranged Damage taken -9% for 5s","Shield Factor: 2200/2700/3300/3900/4500
+Damage Taken From Ranged Unit Reduction: 9%/11%/13%/15%/18%",/, 
+Rattle-Spear,Marksman Unit ATK,"5,0","24,0",Legion ATK,4,22,legendary,Marksman,PvP,Assault,1m30,1 200,Vicious Strike,"Deals damage to 1 enemy Legion in a forward arc. Strikes three times.
+Each strike has a short charge-up.
+The direction of the strike can change slightly each time.
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor: 1500
+
+Inflicts Slow: March Speed -20% for 3s.
+
+Passive: When your LEgion inflicts DEF Break on an enemy Legion, you gain DEF Penetration: ignore 12% of the enemy's DEF (max %) for 7s.","Skill Damage Factor: 1200/1500/1800/2100/2500
+DEF Penetration: 10%/12%/14%/17%/20%",/, 
+Cloak of Stealth,Cavalry Unit ATK,3,20,Legion ATK,3,18,epic,Cavalry,Mobility,/,1h,0,Subterfuge,"Grants your Legions Stealth: March Speed -15% for 300s.
+
+While in Stealth, Legions can only be detected if they move too close to the enemy.
+
+Launching attacks, taking damage, or opening Chests will cause Stealth to expire.","Duration: 300/600/900/1300/1800
+March Speed reduction: 25%/25%/25%/25%/15%",/, 
+Heartpiercer,Marksman Unit ATK,3,20,Legion ATK,3,18,epic,Marksman,PvP,Assault,1m30,1 200,Heart Shot,"Deals damage to the selected Legion.
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor: 1000
+
+Target has 40% chance to gain Physical DEF Break: Physical DEF -15% for 3s.","Skill Damage Factor: 1000/1200/1400/1700/2000
+Probability: 40%/45%/50%/55%/65%",/, 
+Bomb Flinger,Marksman Unit ATK,3,20,Legion ATK,3,18,epic,Marksman,Peacekeeping,/,1m30,0,Bomb Away,"Deals damage to the selected Legion (Darklings, Dark Creatures, and Behemoths only).
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor:1200
+
+Damaged targets have a 40% chance to be Stunned: cannot move or act for 2s.","Skill Damage Factor: 1200/1500/1800/2100/2400
+Probability: 40%/50%/60%/70%/80%",/, 
+Enchiridion of Advanced Incantations,Magic Unit ATK,3,20,Legion ATK,3,18,epic,Magic,Peacekeeping,/,1m30,0,Fireburst,"Deals damage to the selected Legion (Darklings, Dark Creatures, and Behemoths only).
+
+Damage Type: Artifact Skill Damage (Magic)
+Damage Factor:1400",Skill Damage Factor: 1400/1700/2000/2400/2800,/, 
+Homecoming Blossom,Legion March Speed,5,22,Legion DEF,3,18,epic,Mobility,/,/,1h30,0,Recall,"After a short charge-up, teleports your Legion back to near your City.
+
+Moving, being attacked, or gaining control effects will interrupt charge-up.",Cooldown (minutes): 90/80/70/50/30,/, 
+Greenfinger Sickle,Legion Load Capacity,5,22,Legion HP,3,15,epic,Gathering,/,/,12h,0,Quick Gather,"Immediately gathers resources from a chosen Resource Point (Gold, Wood, Ore, or Mana).
+Gold/Wood: 100 000
+Ore: 75 000
+Mana: 40 000
+
+Resources gathered cannot exceed the Legion's Load Capacity or the Resource Point's remaining resources.","Resources gathered (Gold, Wood): 100000/150000/200000/280000/400000
+Resources gathered (Ore): 75000/112500/150000/210000/300000
+Resources gathered (Mana): 40000/60000/80000/112000/160000",/, 
+Blade of Reproach,Cavalry Unit ATK,3,20,Peacekeeping Damage,2,12,epic,Cavalry,Peacekeeping,/,45s,0,Reproach,"Deals damage to the selected Legion (Darklings, Dark Creatures, and Behemoths only).
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor:1000
+Grants 1 buff every time this Skill defeats a targeted Legion.
+
+Buff Effect: Reproach damage +20%
+Max Stacks: 5
+
+Buff lasts until the Legion enters a City, Stronghold, or Resource Point.",Skill Damage Factor: 1000/1200/1400/1700/2000,/, 
+Staff of Spring,Magic Unit HP,3,17,Legion HP,3,15,epic,Magic,PvP,Support,1m30,1 600,Salve,"Heals lightly wounded units in the selected Legion.
+
+Healing Factor: 1200",Healing Factor: 1200/1500/1800/2100/2400,/, 
+Potion of Vigor,Building Engineering,5,22,Legion HP,3,15,epic,Infantry,Engineering,/,6h,0,Quick Build,"Increases your Legion's Engineering.
+
+Buff Effect: Engineering +62% for 1800s (30m)",Engineering bonus: 50%/62%/74%/87%/100%,/, 
+Giant's Bone,Peacekeeping Damage,5,22,Legion ATK,3,18,epic,Peacekeeping,/,/,1m30,0,Power Strike,"Deals damage up to 3 enemy Legions in a forward arc (Darklings, Dark Creatures, and Behemoths only).
+
+Damage Type: Artifact Skill Damage (Physical/Magic)
+Damage Factor:1000
+
+Target take 15% less damage per additional target.
+
+40% chance to knock targets Airborne: cannot move for 3s.","Skill Damage Factor: 1000/1200/1400/1700/2000
+Airborne probability: 40%/45%/50%/55%/65%",/, 
+Magic Bomb,Magic Unit ATK,3,20,Legion ATK,3,18,epic,Magic,PvP,Assault,1m30,1 600,Time Bomb,"Throws a Magic Bomb at the selected Legion. After 8s, the bomb explodes, dealing damage to up to 3 nearby enemy Legions.
+
+Damage Type: Artifact Skill Damage (Magic)
+Damage Factor: 900
+
+Enemy Legions take 15% less damage per additional target.",Skill Damage Factor: 900/1100/1300/1500/1800,/, 
+Butcher's Blade,Infantry Unit ATK,3,20,Legion ATK,3,18,epic,Infantry,PvP,Assault,1m30,400,Butchering Blow,"Deals damage twice to up to 3 enemy Legions in a forward arc.
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor: 450 each time
+
+Enemy Legions take 15% less damage per additional target.",Skill Damage Factor: 450/550/650/750/900,/, 
+Archery Master's Manual,Marksman Unit DEF,3,20,Legion DEF,3,18,epic,Marksman,PvP,/,1m30,1 200,Steady Shot,Grants your Legion Keen: ATK +12% for 20s.,ATK Bonus: 12%/15%/18%/21%/25%,/,
+Freezing Ring,Magic Unit DEF,3,20,Legion HP,3,15,epic,Magic,Tank,/,4m,0,Frost Barrier,"Suspends your Legion for up to 8s.
+
+After Suspension ends, up to 10 surrounding enemy Legions are Slowed: March Speed -30% for 5s.
+
+Casting again while Suspension is still active will cancel Suspension prematurely.",Invulnerability duration: 5/6/7/8/10,/,
+Codex of Prophecy,Infantry Unit DEF,3,20,Peacekeeping Damage Taken,-2,-12,epic,Infantry,Peacekeeping,/,1m30,0,Sacred Shield,"Grants a Shield to your Legion and 3 nearby friendly Legions.
+Shield absorbs damage from Darklings, Dark Creatures, and Behemoths only.
+
+Shield Factor: 1200
+Shield Duration: 15s
+
+Shields do not stack.","Shield Factor: 1200/1500/1800/2100/2400
+Number of friendly Legions: 3/4/5/6/9",/,
+Amulet of Glory,Cavalry Unit HP,3,17,Peacekeeping Damage Taken,-2,-12,epic,Cavalry,Peacekeeping,/,1m30,0,Protective Aura,"Grants a buff to your Legion and 4 nearby friendly Legions once every 2s for 15s.
+
+Effect: Damage taken from Darklings and Dark Creatures -12%",Peacekeeping damage taken reduction: 12%/15%/18%/21%/24%,/,
+Centaur Bow,Cavalry Unit DEF,3,20,Legion DEF,3,18,epic,Cavalry,PvP,Assault,1m30,600,Hail of Arrows,"Deals damage to up to 3 enemy Legions in a designated circle.
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor: 1500
+
+Enemy Legions take 15% less damage per additional target.",Skill Damage Factor: 750/900/1100/1300/1500,/,
+Spirit Bangle,Magic Unit HP,3,17,Legion HP,3,15,epic,Magic,PvP,Support,9m,0,Cleansing Charm,"Removes 1 debuff or impairment effect from up to 5 surrounding friendly Legions.
+
+This Artifact Skill can still be cast when your Legion is subject to control effects.",Cooldown (minutes): 9/8/7/5/3,/,
+Harlequin Mask,Infantry Unit DEF,2,18,Legion DEF,2,14,rare,Infantry,Peacekeeping,/,1m30,0,Taunt,"Forces the selected Legion to attack your Legion for 5s.
+
+Only affects Darklings, Dark Creatures, and Behemoths.",Cooldown (seconds): 90/75/60/45/30,/,
+Crown of the Berserker,Cavalry Unit ATK,2,18,Legion ATK,2,14,rare,Cavalry,PvP,/,45s,600,Will of the Wolf,"Grants your Legion:
+
+1) Keen: ATK +10%
+2) Haste: March Speed +20%
+3) DEF Break: DEF -10%
+
+Effect Duration: 10s",ATK Bonus: 10%/12%/14%/17%/20%,/,
+Boots of Swiftness,Legion March Speed,3,18,Legion HP,2,11,rare,Mobility,/,/,45s,0,Swiftness,"Grants your Legion and 9 surrounding friendly Legions Haste for 10s.
+
+Haste: March Speed +15%
+
+After Haste ends, Legions are Slowed: March Speed -15% for 5s.","March Speed bonus: 15%/18%/22%/26%/30%
+March Speed reduction: 15%/18%/22%/26%/30%",/,
+Rapid Crossbow,Marksman Unit HP,2,15,Legion ATK,2,14,rare,Marksman,PvP,Assault,1m30,1 200,Arrow Strafe,"Deals damage to the selected Legion 2 times.
+
+Damage Type: Artifact Skill Damage (Physical)
+Damage Factor:250 each time",Damage Factor per hit: 250/300/350/420/500,/,
+Ever-Ice,Magic Unit DEF,2,18,Legion HP,2,11,rare,Magic,PvP,Assault,1m30,1 600,Ice-Cold Heart,"After a short charge-up, deals damage to 2 enemy LEgions in a designated circle.
+
+Damage Type: Artifact Skill Damage (Magic)
+Damage Factor: 300
+
+Target is Frozen: March Speed -5% for 5s.","Skill Damage Factor: 300/360/420/500/600
+March Speed reduction: 5%/6%/7%/8%/10%",/,
+Illusory Gems,Legion Load Capacity,3,18,Legion HP,2,11,rare,All-Rounder,/,/,2m30,0,Gemstravaganza,Transforms you into the richest guy on the street.,Cooldown (seconds): 150/135/120/105/90,/,
+Bone Cleaver,Cavalry Unit ATK,2,18,Legion DEF,2,14,rare,Cavalry,PvP,Assault,1m30,600,Bone Smash,"Deals damage to the selected Legion.
+
+Damage Type: Artifact Skill Damage (Phyisical)
+Damage Factor: 400
+
+Damage Factor is increased to 1200 when your Legion's Unit Count is above 50%.","Skill Damage Factor: 400/480/560/680/800
+Damage Factor after upgrade: 600/720/840/1000/1200",/,
+Veteran's Diary,Infantry Unit ATK,2,18,Legion ATK,2,14,rare,Infantry,PvP,/,1m30,400,Battle Hardened,Grants your Legion Onslaught: normal attack damage dealt +30% for 10s.,Normal attack damage bonus: 30%/36%/42%/50%/60%,/,
+Enchanted Coins,Overall Gather Speed,1,10,Legion ATK,1,9,uncommon,All-Rounder,/,/,2m30,0,Money Talks,"Donate generously, and scatter your gold upon the earth.",Cooldown (seconds): 150/135/120/105/90,/,
+Storm Leaf,Legion Load Capacity,1,10,Legion DEF,1,9,uncommon,All-Rounder,/,/,1m10,0,Fierce Gale,"Let them suffer the storm's wrath... well, displeasure.",Cooldown (seconds): 70/60/50/40/30,/,
+Joyous Fireworks,Building Engineering,1,10,Legion HP,1,9,uncommon,All-Rounder,/,/,1m10,0,Perfect Moment,Sets off joyous fireworks.,Cooldown (seconds): 70/60/50/40/30,/,
